@@ -41,6 +41,14 @@ Imagify is an **AI SaaS application** that generates images based on text prompt
 - **Responsive Design** for all screen sizes.
 
 ---
+### Screenshots
+![Home Page]()
+
+![Image Generation]()
+
+![Sign up/Login]()
+
+---
 
 ## ⚙️ Installation & Setup
 
