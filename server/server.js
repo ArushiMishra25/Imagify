@@ -8,9 +8,9 @@ import imageRouter from "./routes/imageRoutes.js";
 const PORT = process.env.PORT || 5000;
 const app = express();
 app.use(express.json());
-//app.use(cors());
+app.use(cors());
 
-app.use(
+/*app.use(
   cors({
     origin: [
       "https://imagify-omega-gilt.vercel.app",
@@ -20,7 +20,7 @@ app.use(
     methods: "GET,POST,PUT,DELETE", // Allowed request types
     credentials: true, // If using cookies/sessions
   })
-);
+);*/
 
 await connectDB();
 
