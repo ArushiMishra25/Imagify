@@ -12,7 +12,7 @@ app.use(express.json());
 
 app.use(
   cors({
-    origin: "https://imagify-omega-gilt.vercel.app", // Allow frontend
+    origin: ["https://imagify-omega-gilt.vercel.app", "http://localhost:5173"], // Allow frontend
     methods: "GET,POST,PUT,DELETE", // Allowed request types
     credentials: true, // If using cookies/sessions
   })
