@@ -46,7 +46,7 @@ Imagify is an **AI SaaS application** that generates images based on text prompt
 
 ![Image Generation](https://github.com/ArushiMishra25/Imagify/blob/main/screenshots/p5.jpg)
 
-![Sign up/Login]()
+![Sign up/Login](https://github.com/ArushiMishra25/Imagify/blob/main/screenshots/p2.jpg)
 
 ---
 
